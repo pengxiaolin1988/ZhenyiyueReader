@@ -1,0 +1,7 @@
+{
+  "name": "朕已阅",
+  "description": "以禅为体，以密为用，以净土为归",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
